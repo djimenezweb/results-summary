@@ -1,3 +1,8 @@
+* {
+	outline: 0px dashed rgba(255, 0, 0, 0.4);
+}
+
 body {
-	font-family: sans-serif;
+	font-family: 'Hanken Grotesk', sans-serif;
+	margin: 0;
 }
